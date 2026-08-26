@@ -5,6 +5,19 @@
 A full-stack marketplace web app where users can browse, filter, and buy listings across categories like electronics, furniture, fashion, sports, and toys — or sign in to list, edit, and manage their own items for sale.
 
 This repository is the **frontend** (React). It talks to a separate Node/Express + MongoDB backend over a REST API.
+
+## Screenshots
+
+| Listings | Item Details | Cart |
+|:---:|:---:|:---:|
+| ![Listings](screenshots/Items_Listing.png) | ![Item Details](screenshots/Item_View.png) | ![Cart](screenshots/Cart.png) |
+| Browse listings by category with live filtering | Product detail view with image carousel & live Q&A | Persistent cart with quantity controls & order summary |
+
+| Shipping | Seller Dashboard |
+|:---:|:---:|
+| ![Shipping](screenshots/Shipping_Details.png) | ![Seller Dashboard](screenshots/Profile_Page.png) |
+| Step-by-step checkout flow | Manage your own listings, stats, and questions |
+
 ## Features
 
 - **Browse & filter** listings by category, with live search-free category tabs and a sliding-indicator nav
